@@ -1,0 +1,31 @@
+.main {
+	border: 5px solid black;
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px 30px;
+	background-color: orange;
+}
+h1 {
+	color: rgb(37, 37, 174);
+	text-shadow: 3px 3px 1px black;
+}
+img {
+	display: block;
+	margin: auto;
+	width: 180px;
+	border-radius: 50%;
+}
+body {
+	background-color: rgb(37, 37, 174);
+}
+button {
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	width: 200px;
+	border-radius: 8px;
+	font-size: 20px;
+	background-color: rgb(37, 37, 174);
+	border: 5px 5px black;
+}
